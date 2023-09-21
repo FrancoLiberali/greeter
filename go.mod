@@ -1,3 +1,3 @@
-module github.com/FrancoLiberali/orness_go_library
+module github.com/FrancoLiberali/greeter
 
 go 1.20
